@@ -1,0 +1,20 @@
+Array Size: 1000000
+Single Thread Time 544 ms
+Multi Thread Time threads = 4, minSizeForParallel = 1000: 150 ms
+--------------------------
+Array Size: 10000000
+Single Thread Time 4723 ms
+Multi Thread Time threads = 4, minSizeForParallel = 1000: 2145 ms
+--------------------------
+Array Size: 100000
+Single Thread Time 335 ms
+Multi Thread Time threads = 4, minSizeForParallel = 100: 11 ms
+--------------------------
+Array Size: 100000
+Single Thread Time 29 ms
+Multi Thread Time threads = 4, minSizeForParallel = 1: 12 ms
+--------------------------
+Array Size: 100000
+Single Thread Time 29 ms
+Multi Thread Time threads = 8, minSizeForParallel = 100000000: 29 ms
+--------------------------
